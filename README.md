@@ -78,10 +78,10 @@ The model helps understand how factors like **MRP**, **outlet type**, and **visi
 ```
 📦 ML-Projects-Mart-Sales-Prediction
 │
-├── BigMart_Sales_Prediction.ipynb # Complete model implementation
-├── BigMartSales.csv # Dataset used for training and testing
-├── requirements.txt # Required dependencies
-└── README.md # Project documentation
+├── Big_Mart_Sales_Prediction.ipynb                  # Complete model implementation
+├── Train.csv                                        # Dataset used for training 
+├── Test.csv                                         # Dataset used for testing
+└── README.md                                        # Project documentation
 
 ```
 ---
