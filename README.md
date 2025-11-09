@@ -75,6 +75,7 @@ The model helps understand how factors like **MRP**, **outlet type**, and **visi
 
 ## 📁 Repository Structure  
 
+```
 📦 ML-Projects-Mart-Sales-Prediction
 │
 ├── BigMart_Sales_Prediction.ipynb # Complete model implementation
@@ -82,7 +83,7 @@ The model helps understand how factors like **MRP**, **outlet type**, and **visi
 ├── requirements.txt # Required dependencies
 └── README.md # Project documentation
 
-
+```
 ---
 
 ## 🧪 How to Run  
